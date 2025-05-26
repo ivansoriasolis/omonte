@@ -12,8 +12,9 @@ export class SaludoComponent {
     //aqui programa Erick
   }
   
-  onclickSaludo() {
+  onclickSaludo():string {
     //aqui programo yo
+    return "ok";
   }
 }
 
