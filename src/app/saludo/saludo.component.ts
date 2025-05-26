@@ -8,4 +8,12 @@ import { Component } from '@angular/core';
 })
 export class SaludoComponent {
 
+  formatearSaludo(){
+    //aqui programa Erick
+  }
+  
+  onclickSaludo() {
+    //aqui programo yo
+  }
 }
+
